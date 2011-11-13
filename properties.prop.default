@@ -1,0 +1,11 @@
+xmppServer = talk.google.com
+xmppPort = 5222
+xmppServiceName = gmail.com
+xmppUserName = xxxxxxx
+xmppPassword = xxxxxxx
+xmppResource = MyCode
+beanstalkServer = localhost
+beanstalkPort = 11300
+beanstalkQue = test
+
+

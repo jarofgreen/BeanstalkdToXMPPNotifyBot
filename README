@@ -1,0 +1,8 @@
+BeanstalkdToXMPPNotifyBot
+
+A Java bot for XMPP chat networks that sits online accepting all friend requests.
+It takes messages from a Beanstalkd que and passes them on to the user, if they are online.
+
+Messages on the Que should be in the format "<to user> <message>". Spaces are allowed in the message with no extra escaping needed.
+
+To run, edit the properties file and pass the location of that file to the programme.
